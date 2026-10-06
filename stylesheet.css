@@ -139,10 +139,6 @@ img {
   height: auto;
 }
 
-.employer-name {
-  font-size: 22px;
-}
-
 @media (max-width: 600px) {
   .profile > tbody > tr > td,
   .publications > tbody > tr > td {
